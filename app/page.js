@@ -18,6 +18,9 @@ export default function HomePage() {
           <li>
             <Link href="/contact">Contact Us</Link>
           </li>
+          <li>
+            <Link href="/services">services</Link>
+          </li>
         </ul>
       </nav>
     </div>
